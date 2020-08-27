@@ -1,2 +1,9 @@
-# js_quiz
-Just quiz create with js
+# Javascript 
+
+### Location 
+
+* Head , Body
+```
+<script language="javascript" type="text/javascript">
+</script>
+```
