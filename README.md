@@ -95,3 +95,11 @@ prompt(var_say,var_placeholder)
 * array.unshift(val1)
 * array.slice(startIndex,stopIndex)
 * array.indexOf(val1)
+* array.splice(indexToStart, numberOfIndices, 'stringToAdd');
+```
+secretMessage.splice(
+  secretMessage.indexOf('get'),
+  5,
+  'know'
+)
+```
