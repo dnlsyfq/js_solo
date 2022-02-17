@@ -85,3 +85,13 @@ name();
 alert(var);
 prompt(var_say,var_placeholder)
 ```
+
+### Array
+
+* array.push(val1,val2)
+* array.length
+* array.pop()
+* array.shift()
+* array.unshift(val1)
+* array.slice(startIndex,stopIndex)
+* array.indexOf(val1)
